@@ -1,0 +1,2 @@
+# GoodScraper
+Goodread Scraper
